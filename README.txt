@@ -21,7 +21,7 @@ SETUP:
 
 Clone the repository
 
-git clone https://github.com/yourusername/dog-posture-ai.git
+git clone https://github.com/Sanad01/dog-posture-ai.git
 
 cd dog-posture-ai
 
